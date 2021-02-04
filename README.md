@@ -17,7 +17,7 @@ an old EeePC netbook to the drone. Eventually it will have camera feeds, but I
 need airsoft sites to open back up to consider moving forward with this project
 at this point.
 
-####### Code
+###### Code
 
 The code is a little rough; this iteration was more about reverse-engineering
 the data sent from the controller and being able to display it as useful values.
